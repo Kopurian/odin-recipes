@@ -1,0 +1,27 @@
+.title {
+    background-color: black;
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.desc,
+.ingredients,
+.steps {
+    font-weight: bold;
+    text-align: center;
+}
+
+.desc {
+    background-color: mediumpurple;
+}
+
+.ingredients {
+    background-color: blueviolet;
+}
+
+.steps {
+    background-color: crimson;
+}
